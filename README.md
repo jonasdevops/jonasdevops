@@ -3,7 +3,7 @@
 
 ## About me:
 - 🎓 Backend developer but flirting with frontend development
-- ❤️ Passionate about programming and technology.
+- ❤️ Passionate about technology.
 
 - 💻 Technologies that work on the BackEnd : <br> <br>
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
