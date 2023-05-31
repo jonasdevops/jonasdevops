@@ -2,10 +2,10 @@
 ### Olá, Seja bem vindo ao meu perfil 
 
 ## About me:
-- 🎓 Backend developer but flirting with frontend development
+- 🎓 SysAdmin/DevOps
 - ❤️ Passionate about technology.
 
-- 💻 Technologies that work on the BackEnd : <br> <br>
+- 💻 Technologies that work on the DevOps : <br> <br>
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
   ![Quarkus](https://img.shields.io/badge/-Quarkus-010445?style=flat&logoColor=fff&logo=quarkus)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=flat&logoColor=black&logo=javascript)&nbsp;
@@ -19,7 +19,7 @@
   ![Junit](https://img.shields.io/badge/-Junit-ff0000?style=flat&logoColor=fff&logo=junit5)&nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-006600?style=flat&logoColor=fff&logo=jest)&nbsp;
   
- - 💻 I work on the frontend with the following technologies:<br> <br>
+ - 💻 I work on the DevOps with the following technologies:<br> <br>
  ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
  ![Vue](https://img.shields.io/badge/-Vue-fff?style=flat&logoColor=006600&logo=vue.js)&nbsp;
 
