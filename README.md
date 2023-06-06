@@ -18,7 +18,8 @@
  ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
  ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
- ![azure](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+ ![Goole](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+ ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
  - 💻 Technologies I work with messaging: <br> <br>
   ![Kafka](https://img.shields.io/badge/-Kafka-ff0000?style=flat&logoColor=fff&logo=apachekafka)&nbsp;
@@ -28,6 +29,7 @@
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
   </div>
   <div>
     <a href="https://git.io/streak-stats">
