@@ -7,15 +7,15 @@
 
 - 💻 Technologies that work on the DevOps : <br> <br>
   
-  ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
+  ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)&nbsp;
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
   
  - ⚡ I work with the following testing tools : <br> <br>
-  ![Junit](https://img.shields.io/badge/-Junit-ff0000?style=flat&logoColor=fff&logo=junit5)&nbsp;
-  ![Jest](https://img.shields.io/badge/-Jest-006600?style=flat&logoColor=fff&logo=jest)&nbsp;
+  ![Junit](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
+  ![Jest](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
   
  - 💻 I work on the DevOps with the following technologies:<br> <br>
  ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
