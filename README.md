@@ -6,12 +6,7 @@
 - ❤️ Passionate about technology.
 
 - 💻 Technologies that work on the DevOps : <br> <br>
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
-  ![Quarkus](https://img.shields.io/badge/-Quarkus-010445?style=flat&logoColor=fff&logo=quarkus)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=flat&logoColor=black&logo=javascript)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logoColor=fff&logo=java)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=flat&logoColor=fff&logo=node.js)&nbsp;
+  
   ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
   
@@ -20,22 +15,21 @@
   ![Jest](https://img.shields.io/badge/-Jest-006600?style=flat&logoColor=fff&logo=jest)&nbsp;
   
  - 💻 I work on the DevOps with the following technologies:<br> <br>
- ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
- ![Vue](https://img.shields.io/badge/-Vue-fff?style=flat&logoColor=006600&logo=vue.js)&nbsp;
+ ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
+ ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
 
  - 💻 Technologies I work with messaging: <br> <br>
   ![Kafka](https://img.shields.io/badge/-Kafka-ff0000?style=flat&logoColor=fff&logo=apachekafka)&nbsp;
   ![RabbitMq](https://img.shields.io/badge/-RabbitMQ-orange?style=flat&logoColor=fff&logo=rabbitmq)&nbsp;
 
  - 🎓 I'm interested in studying: <br> <br>
-  ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
-  <div>
-    <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
-    <img   src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dark" alt="Marcoant007"/> 
+  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+  ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
   </div>
   <div>
     <a href="https://git.io/streak-stats">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcoant007&theme=chartreuse-dark"/> 
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jonas&theme=chartreuse-dark"/> 
      
   </div>
 
