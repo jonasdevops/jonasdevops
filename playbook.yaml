@@ -1,0 +1,36 @@
+
+- name: instalar do jenkins
+  hosts: jenkins
+  become: true
+  tasks:
+  - name: instalação do java
+    ansible.builtin.apt:
+      name: openjdk-11-jdk
+      state: present
+      update_cache: yes
+  - name: Adicionando chave repositorio jenkins
+    ansible.builtin.apt_key:
+        url: https://pkg.jenkins.io/debian-stable/jenkins.io.key
+        state: present
+
+  - name: Adicionar o repositorio do jenkins
+    ansible.builtin.apt_repository:
+        repo: deb https://pkg.jenkins.io/debian-stable binary/
+        state: present
+  - name: instalação do jeenk
+    ansible.builtin.apt:
+        name: jenkins
+        state: present
+        update_cache: yes
+
+  - name: obtendo chave initialAdminPassword do jenkins
+    ansible.builtin.command: cat /var/lib/jenkins/secrets/initialAdminPassword
+    register: chave
+
+  - name: Exibindo a chave initialAdminPassword
+    ansible.builtin.debug:
+      msg: "{{ chave }}"
+
+
+    
+ 
